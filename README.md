@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="MailFox.png" width="300"><br>
+  <strong>Made by sid7.py | ProxyNation Cyber Labs</strong>
+</p>
+
+
 # 🐺 MailFox – Advanced Email Breach Scanner  
 ### Made by **sid7.py | ProxyNation Cyber Labs**
 
