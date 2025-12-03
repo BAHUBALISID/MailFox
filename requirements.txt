@@ -1,0 +1,45 @@
+# MailFox - Email Breach Scanner
+# Required dependencies
+
+# Core HTTP library
+requests>=2.31.0
+
+# Rich terminal output
+rich>=13.5.2
+
+# ASCII art generation (fallback)
+pyfiglet>=0.8.post1
+
+# Cross-platform colored terminal text
+colorama>=0.4.6
+
+# Optional dependencies for enhanced features
+# ===========================================
+
+# For CSV export (optional - included in standard library)
+# python-csv is built-in
+
+# For PDF export (uncomment if needed)
+reportlab>=4.0.4
+
+# For Excel export (uncomment if needed)
+openpyxl>=3.1.2
+
+# For database support (uncomment if needed)
+# sqlite3 is built-in
+ pymysql>=1.0.3
+ psycopg2-binary>=2.9.7
+
+# For enhanced hashing (uncomment if needed)
+ bcrypt>=4.0.1
+
+# For proxy support (uncomment if needed)
+# socks5 support
+ pysocks>=1.7.1
+
+# Development dependencies (optional)
+# ===================================
+ black>=23.3.0
+ flake8>=6.0.0
+ mypy>=1.3.0
+ pytest>=7.3.1
