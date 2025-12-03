@@ -390,8 +390,7 @@ PROXY NATION
                     'metadata': {
                         'tool': 'MailFox',
                         'version': '2.0',
-                        'author': '@JoelGMSec',
-                        'website': 'https://darkbyte.net',
+                        'author': '@sid7.py',
                         'search_date': datetime.now().isoformat(),
                         'target': self.args.target,
                         'mode': self.args.mode,
